@@ -18,7 +18,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/kipriklar-uchun-tush-12816"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/kipriklar-uchun-tush-12816"
                                     title="Kipriklar uchun tush L'Oreal Paris Telescopic, qora">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
@@ -128,7 +128,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/ikki-kamerali-muzlatgich-144209"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/ikki-kamerali-muzlatgich-144209"
                                     title="Ikki kamerali muzlatgich Бирюса M120, hajmi 205 litr">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
@@ -233,7 +233,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/ofis-texnikalari-uchun-106839"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/ofis-texnikalari-uchun-106839"
                                     title="Ofis texnikalari uchun qog'oz varaqlari Sylvamo Svetotopy, A4f C07/3, 500 varaq">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
@@ -339,7 +339,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/dush-uchun-gelkrem-21144"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/dush-uchun-gelkrem-21144"
                                     title="Dush uchun gel-krem Palmolive Naturel Zaytun ekstrakti bilan intensiv namlovchi, 750 ml">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
@@ -446,7 +446,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/balzam-loreal-paris-8502"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/balzam-loreal-paris-8502"
                                     title="Balzam L'Oreal Paris Elseve gialuron, suvsizlangan va ingichka sochlar uchun, 200 ml">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
@@ -557,7 +557,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/quruq-sut-aralashmasi-54233"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/quruq-sut-aralashmasi-54233"
                                     title="Quruq sut aralashmasi Нэнни, echki suti, 0-12 oy, 800 g">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
@@ -656,7 +656,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama"
+                                    data-v-592a2839="" ui-link=""  
                                     href="/uz/product/idish-yuvish-uchun-vosita-fairy-limon-3892"
                                     title="Idish yuvish uchun vosita Fairy, limon, 450 ml">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
@@ -762,7 +762,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/nivea-men-dush-35767"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/nivea-men-dush-35767"
                                     title="NIVEA MEN dush uchun gel, dengiz minerallari bilan uyg'otuvchi, 250 ml">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
@@ -873,7 +873,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/nivea-men-dush-20278"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/nivea-men-dush-20278"
                                     title="NIVEA MEN dush uchun gel, faol uglerodli ko'mir quvvati, 500 ml">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
@@ -984,7 +984,7 @@
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
                             <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/ayollar-uchun-nivea-20290"
+                                    data-v-592a2839="" ui-link=""   href="/uz/product/ayollar-uchun-nivea-20290"
                                     title="Ayollar uchun NIVEA dush geli, limon o'tining sarhilligi tomchi yog' bilan, 250 ml">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
