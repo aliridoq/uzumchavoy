@@ -1198,7 +1198,7 @@
    border-radius: 12px;
    position: relative;
    transform: translateZ(0);
-   width: 100%;
+   width: 240px;
 }
 .card-info-block{
    -webkit-tap-highlight-color: transparent;
