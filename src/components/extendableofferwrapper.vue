@@ -1165,7 +1165,7 @@
    overflow: hidden;
    position: relative;
    transition: all .25s;
-   width:240px;
+   width:245px;
 }
 
 .ui-card{
@@ -1198,7 +1198,7 @@
    border-radius: 12px;
    position: relative;
    transform: translateZ(0);
-   width: 240px;
+   width: 245px;
 }
 .card-info-block{
    -webkit-tap-highlight-color: transparent;
