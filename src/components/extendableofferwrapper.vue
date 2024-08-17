@@ -1165,7 +1165,7 @@
    overflow: hidden;
    position: relative;
    transition: all .25s;
-   width: 100%;
+   width:220px;
 }
 
 .ui-card{
