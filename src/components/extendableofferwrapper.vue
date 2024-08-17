@@ -1165,13 +1165,14 @@
     overflow: hidden;
     position: relative;
     transition: all .25s;
-    width: 100%;
+    width: 190px;
 }
 
 .ui-card{
     cursor: pointer;
     box-sizing: border-box;
     margin: 0;
+    width:190px;
     font-size: 100%;
     vertical-align: baseline;
     outline: none;
