@@ -1165,14 +1165,14 @@
     overflow: hidden;
     position: relative;
     transition: all .25s;
-    width: 200px;
+    width: 184px;
 }
 
 .ui-card{
     cursor: pointer;
     box-sizing: border-box;
     margin: 0;
-    width:200px;
+    width:184px;
     font-size: 100%;
     vertical-align: baseline;
     outline: none;
@@ -1199,7 +1199,7 @@
     border-radius: 12px;
     position: relative;
     transform: translateZ(0);
-    width:200px;
+    width:184px;
 }
 .card-info-block{
     -webkit-tap-highlight-color: transparent;
@@ -1233,7 +1233,7 @@
     outline: none;
     font-style: inherit;
     height: 100%;
-    width: 200px;
+    width: 184px;
 }
 .reklama{
     line-height: 1;
